@@ -1,5 +1,8 @@
 if(A){
 	//Do some shit
+	//Maybe not
+	//shoul i stay
+	//?
 }
 
 if(B){
