@@ -3,6 +3,7 @@ if(A){
 	//Maybe not
 	//shoul i stay
 	//?
+	//should I go?
 }
 
 if(B){
