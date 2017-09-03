@@ -1,4 +1,5 @@
 if(A){
+if(A||B){
 	//Do some shit
 	//Maybe not
 	//shoul i stay
@@ -9,6 +10,7 @@ if(A){
 	//I activate you mommy
 }
 
+<<<<<<< HEAD
 
 if(C){
 	//Wake me up
@@ -16,9 +18,16 @@ if(C){
 }
 
 if(B){
+if(B||C){
 	//Hello World
 
 	//Eu nao sei oq escrever
 	//aaaaaaaaaaaaaaaaah
+<<<<<<< HEAD
 	//b
+=======
+}
+
+if(C||D){
+	//Wake me up
 }
