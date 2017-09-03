@@ -3,22 +3,17 @@ if(A){
 	//Maybe not
 	//shoul i stay
 	//?
-	//NANANANANANANANANANANANNA
 	//should I go?
 	//TICK-TACO
 	//I activate you mommy
 }
 
+if(B){
+	//Hello World
+	//Eu nao sei oq escrever
+	//aaaaaaaaaaaaaaaaah
+}
 
 if(C){
 	//Wake me up
-	//When september ends
-}
-
-if(B){
-	//Hello World
-
-	//Eu nao sei oq escrever
-	//aaaaaaaaaaaaaaaaah
-	//b
 }
