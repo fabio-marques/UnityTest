@@ -6,3 +6,6 @@ if(A){
 if(B){
 	//Hello World
 }
+if(C){
+	Wake me up inside!
+}
