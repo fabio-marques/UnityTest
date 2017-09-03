@@ -1,5 +1,6 @@
 if(A){
 	//Do some shit
+	//Or don't
 }
 
 if(B){
