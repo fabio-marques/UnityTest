@@ -1,18 +1,21 @@
 if(A){
 <<<<<<< HEAD
+<<<<<<< HEAD
 if(A||B){
 =======
 >>>>>>> parent of b002d4a... CHANGES
+=======
+>>>>>>> 8549fbed99d1ae3c2da4c3866d1ac1adc0295254
 	//Do some shit
 	//Maybe not
 	//shoul i stay
 	//?
-	//NANANANANANANANANANANANNA
 	//should I go?
 	//TICK-TACO
 	//I activate you mommy
 }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 
@@ -26,13 +29,12 @@ if(B||C){
 =======
 if(B){
 >>>>>>> parent of b002d4a... CHANGES
+=======
+if(B){
+>>>>>>> 8549fbed99d1ae3c2da4c3866d1ac1adc0295254
 	//Hello World
-
 	//Eu nao sei oq escrever
 	//aaaaaaaaaaaaaaaaah
-<<<<<<< HEAD
-	//b
-=======
 }
 
 if(C){
