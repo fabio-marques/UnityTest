@@ -1,5 +1,8 @@
 if(A){
+<<<<<<< HEAD
 if(A||B){
+=======
+>>>>>>> parent of b002d4a... CHANGES
 	//Do some shit
 	//Maybe not
 	//shoul i stay
@@ -11,6 +14,7 @@ if(A||B){
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 if(C){
 	//Wake me up
@@ -19,6 +23,9 @@ if(C){
 
 if(B){
 if(B||C){
+=======
+if(B){
+>>>>>>> parent of b002d4a... CHANGES
 	//Hello World
 
 	//Eu nao sei oq escrever
@@ -28,6 +35,6 @@ if(B||C){
 =======
 }
 
-if(C||D){
+if(C){
 	//Wake me up
 }
