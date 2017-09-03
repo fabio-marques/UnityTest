@@ -1,0 +1,7 @@
+if(A){
+	//Do some shit
+}
+
+if(B){
+	//Hello World
+}
