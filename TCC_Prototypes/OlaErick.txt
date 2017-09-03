@@ -8,4 +8,10 @@ if(A){
 
 if(B){
 	//Hello World
+	//Eu nao sei oq escrever
+	//aaaaaaaaaaaaaaaaah
+}
+
+if(C){
+	//Wake me up
 }
