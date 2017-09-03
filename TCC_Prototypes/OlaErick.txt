@@ -1,4 +1,4 @@
-if(A){
+if(A||B){
 	//Do some shit
 	//Maybe not
 	//shoul i stay
@@ -8,12 +8,12 @@ if(A){
 	//I activate you mommy
 }
 
-if(B){
+if(B||C){
 	//Hello World
 	//Eu nao sei oq escrever
 	//aaaaaaaaaaaaaaaaah
 }
 
-if(C){
+if(C||D){
 	//Wake me up
 }
