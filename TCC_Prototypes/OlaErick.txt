@@ -1,3 +1,4 @@
+if(A){
 if(A||B){
 	//Do some shit
 	//Maybe not
